@@ -1,0 +1,39 @@
+global-styling:
+  version: VERSION
+  css:
+    base:
+      css/base/style.css: {}
+      css/base/fix.css: {}
+      css/bootstrap/bootstrap.min.css: {}
+      css/base/responsive.css: {}
+    layout:
+      css/layout/header.css: {}
+      css/layout/top-header-first.css: {}
+      css/layout/top-header-second.css: {}
+      css/layout/highlighted-header-first.css: {}
+      css/layout/highlighted-header-second.css: {}
+      css/layout/highlighted-header-last.css: {}
+      css/layout/highlighted.css: {}
+      css/layout/content.css: {}
+      css/layout/sidebar-second.css: {}
+      css/layout/content-bottom.css: {}
+      css/layout/footer-top.css: {}
+      css/layout/footer-content.css: {}
+      css/layout/footer.css: {}
+
+      css/layout/region-sidebar-second.css: {}
+
+      css/pages/front.css: {}
+      css/pages/assistance.css: {}
+      css/pages/press.css: {}
+
+      css/nodes/sector.css: {}
+  js:
+    js/bootstrap/bootstrap.min.js: {}
+    js/responsive.js: {}
+    js/amne-main-nav.js: {}
+    js/sector-statistics-tab.js: {}
+
+
+  dependencies:
+    - core/jquery

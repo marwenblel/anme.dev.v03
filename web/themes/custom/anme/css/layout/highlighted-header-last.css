@@ -1,0 +1,6 @@
+#highlighted-header-last {
+    padding: 0px;
+}
+#highlighted-header-last.container {
+    max-width: 1400px;
+}
