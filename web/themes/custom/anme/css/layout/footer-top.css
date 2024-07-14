@@ -3,4 +3,5 @@
 }
 #footer-top .region-footer_top {
     width: 100%;
+    background: linear-gradient(to top, #ffffff, #1e90ff);
 }
