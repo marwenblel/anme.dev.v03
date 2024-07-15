@@ -36,7 +36,8 @@ global-styling:
       css/nodes/sector.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
-    js/responsive.js: {}
+    js/responsive-front.js: {}
+    js/responsive-gp.js: {}
     js/amne-main-nav.js: {}
     js/sector-statistics-tab.js: {}
 
