@@ -5,7 +5,12 @@ global-styling:
       css/base/style.css: {}
       css/base/fix.css: {}
       css/bootstrap/bootstrap.min.css: {}
-      css/base/responsive.css: {}
+      css/base/responsive/responsive-all.css: {}
+      css/base/responsive/responsive-front.css: {}
+      css/base/responsive/responsive-gp.css: {}
+      css/base/responsive/responsive-cp.css: {}
+      css/base/responsive/responsive-tp.css: {}
+      css/base/responsive/responsive-pr.css: {}
     layout:
       css/layout/header.css: {}
       css/layout/top-header-first.css: {}
@@ -24,6 +29,7 @@ global-styling:
       css/layout/region-sidebar-second.css: {}
 
       css/pages/front.css: {}
+      css/pages/gp.css: {}
       css/pages/assistance.css: {}
       css/pages/press.css: {}
 

@@ -2,13 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="617add38-06cf-45e4-9c39-85126b4c0332" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/anme.dev.v03.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_big-pipe-interface-previe_YwHGeuGE3hV-RX6OMH9yKT6IH\tY25LHte8fYDLSz17OyJj4JrEJW1Dq4GFjLnztRRpyI.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_block--system-messages-bl_Yf7DeHE_TARsBrQGqCKwBT3HK\CqFDkPV4Of4AOy3yVsRfsGszM2QqruFFq_oAAeyals8.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_block.html.twig_Ge3Vs-RLslH-Jp3NUdhNAqGPH\_iRHlULlzE0qPaAtDOA9wXaR_0XVC939cVUKugG4iZE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_breadcrumb.html.twig_17NtYBj4GGRhhSpPswW79rftx\ouxMGiFdyuwYsj9NwLofxERZI4Z8t5a6xoixeervSMo.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_container.html.twig_TGXH0PxF5qf285RBfJy3FIpGB\XVoP1ncY9WU05uq9WuYNhQqwzsaVJEztKimeHplThOE.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_details.html.twig_KUzOI1F512Dl6Ze1cjDxMD17x\XWcaljWUtI-aXanUaRwJDi7fOvkKVETIxB-0hQfo-Ik.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form-element-label.html.t_Vlh7NHFSAtwTsvpC_E27PuGHv\7_GdObClOKQIjQt7pjI2MMxeFh0O_sFMqrTHGqu84sk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form-element.html.twig_b2MYk3w90WXqZY0h3TVv4AgDr\mawFKgD-5KNQmoGTtA3itVyMiOk6NynEoV1xt5PBM2g.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_form.html.twig_81Msj3Yqn3p5N-mjNl_DLkjdZ\RzcDs07uYTDWAkoKEbYgGGap0ky3fNR8JlwtryqXI_k.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_html.html.twig_xndcHBWi-lkvsYU7QW1iBDg7z\onLE5d_-6Q7G2mmeKHqqhQUlLpYOBXOxRIcEmgoOOlk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_input.html.twig_6O8whi3Enw7WE5iwPs3oIsJeE\4UUcozNUcfQj0lXFkRNvmJJpSK6qNWDRiAg_zQPpTck.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_links.html.twig_v8K0rmFRYej6cgNIbosUS_eUp\LRkAr3GX4DPBo8aTpyzG5CcWZqNlCyeIBlMV62v6I1Y.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_menu--toolbar.html.twig_OH-tCR7S2On1RexL2QGeM6cYZ\G7qzhwc2elAAdcnWezDdr62s6yHBimXRCxCy0Yf4jMA.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_off-canvas-page-wrapper.h_uS8ELyqOVFEIK5xvOHUWVGsxb\vNFNL3objtMQvAXQXpBpuLXhrDYyS-XUBJciCbOjAfM.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_page-title.html.twig_2TUlaFIvoJmSINxC1jRiHlAVQ\cMGQYwsSxogpqh77CqIUkpki5Sp0aezEiZ02sR4FbCs.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_page.html.twig_6xSsmjUZ9LyR1Xcx5KluE9ErI\Rz_yhtD5T93vIIcMnTE2Avst0h81k9yTZA771hE_07s.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_region--breadcrumb.html.t_D4nzjzKhve36YdSeq4iwoQoG4\lR57WS6Zr8qiNMSbz4-uJLiI0GRIHfSLTOupk0hVrew.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_region.html.twig_Db_uGsguifTN_KT8FvXM0iKys\J92VrdiNWkLqLgNj55ZX0fHDiO6dxEusf5muTSNZFQk.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_select.html.twig_sn65Hp48EWWoV84W3Qkkt5OCj\Bape-02bE_bTNRnx6XFBM4hC7aNsOEC51kc21hOA3-Q.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_status-messages.html.twig_zGU1uzViOAeO7bMep9flGStQv\FQuDKbSZ02dgmitiDd0gmD5-GdGaPKPcXgRZl-4o_Sg.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\gIPEW2G3FL6f6R6KoQUk6S4W7SgBZJkYOyLo_3-R8NU.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\sites\default\files\php\twig\6693dd57b786e_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\IPcXYl94n38GDOqRtsQ8oUgJ9fF7WvnkcwYtfKXF3lM.php" afterPath="" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\anme.dev.v03\web\themes\custom\anme\css\base\responsive.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-front.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" afterPath="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/front.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/front.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="anme.dev.v03.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +78,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="footer-top.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css">
+      <file leaf-file-name="gp.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12592593" vertical-offset="0" max-vertical-offset="675">
-              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+            <state vertical-scroll-proportion="0.7733333" vertical-offset="3218" max-vertical-offset="3893">
+              <caret line="220" column="17" selection-start-line="220" selection-start-column="17" selection-end-line="220" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -56,6 +98,10 @@
       <list>
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/front.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-all.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-front.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css" />
       </list>
     </option>
   </component>
@@ -76,7 +122,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -92,6 +138,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -197,6 +244,10 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -227,14 +278,9 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,7 +290,33 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\anme.dev.v03\web\themes\custom\anme\css\base" />
+      <recent name="C:\xampp\htdocs\anme.dev.v03\web\themes\custom\anme\css\responsive" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -264,22 +336,22 @@
     <frame x="-8" y="-8" width="1552" height="850" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24966353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2537012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32909605" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -306,11 +378,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/js/custom_3d_owl.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -318,22 +397,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4365559" vertical-offset="0" max-vertical-offset="986">
           <caret line="17" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="150" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/pages/front.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.897281" vertical-offset="324" max-vertical-offset="1054">
-          <caret line="54" column="148" selection-start-line="54" selection-start-column="148" selection-end-line="56" selection-end-column="149" />
-          <folding />
+        <state vertical-scroll-proportion="0.051359516" vertical-offset="0" max-vertical-offset="662">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-top.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12592593" vertical-offset="0" max-vertical-offset="675">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        <state vertical-scroll-proportion="-0.29777777" vertical-offset="405" max-vertical-offset="1105">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-tp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-pr.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-cp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-gp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-front.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47851852" vertical-offset="0" max-vertical-offset="1972">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7733333" vertical-offset="5" max-vertical-offset="850">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7733333" vertical-offset="3218" max-vertical-offset="3893">
+          <caret line="220" column="17" selection-start-line="220" selection-start-column="17" selection-end-line="220" selection-end-column="17" />
           <folding />
         </state>
       </provider>
