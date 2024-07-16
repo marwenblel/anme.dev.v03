@@ -106,3 +106,9 @@
         width: 100%;
     }
 }
+/*CSS for block-anme-views-block-webinair-block-1 */
+@media (min-width: 300px) and (max-width: 770px) {
+    body.page-id-6 #footer-top #block-anme-views-block-webinair-block-1 {
+        display: none;
+    }
+}

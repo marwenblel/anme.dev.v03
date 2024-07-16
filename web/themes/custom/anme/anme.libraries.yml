@@ -30,14 +30,19 @@ global-styling:
 
       css/pages/front.css: {}
       css/pages/gp.css: {}
-      css/pages/assistance.css: {}
+      css/pages/cp.css: {}
+      css/pages/tp.css: {}
       css/pages/press.css: {}
+      css/pages/assistance.css: {}
 
       css/nodes/sector.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
     js/responsive-front.js: {}
     js/responsive-gp.js: {}
+    js/responsive-cp.js: {}
+    js/responsive-tp.js: {}
+    js/responsive-press.js: {}
     js/amne-main-nav.js: {}
     js/sector-statistics-tab.js: {}
 
